@@ -1,5 +1,5 @@
 {
-    "name": "mikha-dev/ignition",
+    "name": "facade/ignition",
     "description": "A beautiful error page for Laravel applications.",
     "keywords": [
         "error",
